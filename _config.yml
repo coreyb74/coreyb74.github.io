@@ -1,4 +1,4 @@
 name: coreyb74
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-remote-theme: cs50/jekyll-theme-cs50 
+remote-theme: minima
