@@ -2,3 +2,5 @@ name: coreyb74
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 remote-theme: minima
+
+theme: jekyll-theme-minimal
