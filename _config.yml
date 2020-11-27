@@ -1,6 +1,7 @@
 name: coreyb74
+youtube: https://youtube.com/channel/UCwMedEZJ3X3wXJGsPfZCc7g
+bandcamp: https://bandcamp.com/
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:title
 remote-theme: minima
-
 theme: jekyll-theme-minimal
