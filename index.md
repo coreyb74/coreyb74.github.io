@@ -6,7 +6,8 @@ title: cb74.digital
 <div class="blurb">
 	<h1>cb74.digital</h1>
 	<p>in progress
-	(music.md)
+	/main/blog.md
+	/main/music.md
 	</p>
 </div><!-- /.blurb -->
 <img src="images/DSC08828-2.jpg" width="360" height="240" class="center"/>
