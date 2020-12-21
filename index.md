@@ -5,7 +5,9 @@ title: cb74.digital
 # CB74.DIGITAL
 
 **[Blog](/blog.md)**
+
 [Latest Post](/blog.md)
+
 **[Music](/music.md)**
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3959623800/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://cbutler.bandcamp.com/album/eta-carinae">Eta Carinae by C. Butler</a></iframe>
 
