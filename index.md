@@ -4,7 +4,7 @@ title: cb74.digital
 ---
 # CB74
 
-## [Blog](/blog/index.md)
+## [Blog](/blog/index.html)
 
 ## [Music](/music.md)
 
