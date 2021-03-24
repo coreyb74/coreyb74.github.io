@@ -10,6 +10,6 @@ title: cb74.digital
 
 ## [Youtube](https://www.youtube.com/watch?v=N29Kfyv9CQ8)
 
-## [Minecraft Live Maps](/minecraftmain.md)
+## [Minecraft](/minecraftmain.md)
 
 ## [FTP](ftp://cb74.digital)
