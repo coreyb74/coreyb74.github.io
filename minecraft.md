@@ -4,6 +4,12 @@
 A server network that I self host, connected via proxy.
 ## [FFA Public Map](\http://mc.cb74.digital:8080/)
 
+A public survival world.
+
 ## [The Castle Map](\http://mc.cb74.digital:8081/)
 
-## [Noonie's Realm](\http://mc.cb74.digital:8888/) *23.3.21*
+The Castle, being built in creative to be later played in survival.
+
+## [Noonie's Realm](\http://mc.cb74.digital:8888/) 
+
+Map of Noonie_00's realm, *last updated 23.3.21*
