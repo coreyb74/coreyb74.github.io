@@ -10,6 +10,7 @@ I decided to learn how to create a personal website in 2020 to learn the basics 
 simple websites work.
 Along with beginning to learn how to self host a minecraft server 
 from an old laptop on my campuses network ( I didn't quite have permission to do this ). At first I created a basic text website layout with a few links and pages and decided to use github pages for ease of use to focus more on the content. By mid 2020 I was satisfied and stopped thinking about the possibilities of having my own place on the internet and chose to instead focus on learning more about minecraft server hosting. 
+
 That brings me forward to today where I decided to continue maintaining a website as my interest in the internet and servers returns. I'm currently hosting a network of minecraft servers on my retired desktop along with other services such as video streaming and file servers.
 
 The majority of inspiration has come from other people's website such as cadence.moe
