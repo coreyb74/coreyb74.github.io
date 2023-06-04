@@ -1,8 +1,8 @@
 ---
 layout: default
-title: cb74.digital
+title: cbutler.ovh
 ---
-# CB74
+# CBUTLER
 
 ## [Blog](/blog/index.html)
 
@@ -12,4 +12,4 @@ title: cb74.digital
 
 ## [Minecraft](/minecraft.md)
 
-## [FTP](ftp://cb74.digital)
+## [FTP](ftp://cbutler.ovh)
