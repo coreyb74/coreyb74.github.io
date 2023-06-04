@@ -3,6 +3,3 @@ youtube: https://youtube.com/channel/UCwMedEZJ3X3wXJGsPfZCc7g
 bandcamp: https://bandcamp.com/
 markdown: kramdown
 permalink: /blog/:year/:title
-
-
-theme: jekyll-theme-minimal
